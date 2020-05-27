@@ -1,0 +1,2 @@
+# BotMHI_IQOption
+Projeto de construção de um bot para operar a estratégia MHI de modo automático na IQ Option
