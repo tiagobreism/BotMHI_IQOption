@@ -5,3 +5,5 @@ Projeto de construção de um bot para operar a estratégia MHI de modo automát
 [Video da Montagem](https://youtu.be/_PKqW_NxkqY)
 
 [Video da Montagem MHI Parte2](https://youtu.be/RpkF1j3RAds)
+
+[Video da Montagem MHI Parte3](https://www.youtube.com/watch?v=lv6YwINB3ZU)
