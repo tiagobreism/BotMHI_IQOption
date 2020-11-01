@@ -14,8 +14,7 @@ import time
 import sys
 
 print('''
-	     Simples MHI BOT
-	  youtube.com/c/IQCoding
+	     Estratégia Cashmere
  ------------------------------------
 ''')
 
